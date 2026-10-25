@@ -1,0 +1,9 @@
+# 编译产物（.c 源码旁边会生成这些）
+*.exe
+*.o
+*.obj
+*.pdb
+
+# Windows 系统生成的杂项
+Thumbs.db
+desktop.ini
